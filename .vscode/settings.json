@@ -1,0 +1,7 @@
+{
+    "debug.javascript.terminalOptions": {
+    },
+    "debug.terminal.clearBeforeReusing": true,
+    "terminal.integrated.automationShell.linux": "",
+    "prettier.withNodeModules": true
+}
